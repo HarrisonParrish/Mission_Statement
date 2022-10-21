@@ -1,36 +1,35 @@
+*{   
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
 .content{
-    font-size: 20px;
-    font-family: "Times New Roman";
-    padding: 10px;
-    letter-spacing: 2px;
-    line-height: 1.5;
-    text-align: left;
+  padding: 10px;
+  letter-spacing: 2px;
+  line-height: 1.5;
 
 }
 h1{text-align: center;}
 h2 {color: #006EB6;
-    text-align: center;
+  text-align: center;
 }
 
 .logo {
-    height: 150px;
-    width: 150px;
-    display: block;
-    margin-left:auto;
-    margin-right:auto;
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
 }
 p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-  }
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
 li  {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    
-  }
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+    }
 
-.dark {}
